@@ -1,0 +1,27 @@
+# predict.skin — Skincare & Dermatology Prediction Markets
+
+> Real-time prediction markets for skincare & dermatology. Bet on outcomes, see live odds, and win. Free to play with shared pools powered by Firebase.
+
+
+predict.skin is a prediction market platform focused on skincare & dermatology. Users can bet YES or NO on curated markets with real-time shared pools. Features live odds, countdown timers, trending markets, and social sharing. Part of the Predict Network — 18 niche prediction market sites.
+
+
+## Pages
+
+- [Homepage — Skincare & Dermatology prediction markets with live odds](https://predict.skin)
+- [Markets — Active skincare & dermatology prediction markets](https://predict.skin#markets)
+
+
+## Keywords
+
+prediction market, skincare & dermatology, betting, odds, forecast, predict.skin
+
+
+## Related Sites
+
+- [Spunk.Bet — Free Crypto Casino](https://spunk.bet)
+- [Stimulant Wiki — Nootropic Encyclopedia](https://stimulant.wiki)
+- [Stimulant Doctor — ADHD & Focus Guide](https://stimulant.doctor)
+- [Stimulant Shop — Buy Nootropics](https://stimulant.shop)
+- [@SpunkArt13 on X](https://x.com/SpunkArt13)
+- [SpunkArt.com](https://spunkart.com)
